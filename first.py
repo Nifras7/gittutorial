@@ -1,0 +1,2 @@
+name = 'Nifras'
+print(name)
